@@ -29,3 +29,13 @@ round robin.c
 sequential akash.c
 
 sjf akash.c
+
+first come first.c
+
+first fit.c
+
+scan disk.c
+
+single level.c
+
+two level.c
