@@ -39,3 +39,13 @@ scan disk.c
 single level.c
 
 two level.c
+
+copying system call.c
+
+execution time.c
+
+highest priority.c
+
+memory allocation.c
+
+system calls.c
